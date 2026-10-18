@@ -1,0 +1,11 @@
+# 运行本项目所需的 Python 包
+# 安装：pip install -r requirements.txt
+
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scipy>=1.10
+openpyxl>=3.1
+
+# 说明：
+#   sqlite3 是 Python 内置库，不需要安装
